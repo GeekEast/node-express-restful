@@ -6,6 +6,16 @@ Project 2 | `Global`, `window` and `Module`
 Project 3 | `Built-in` module, `http` server
 Project 4 | `npm` version, install, update and publish
 Project 5 | `Restful` and `HTTP` basics
+Project 6 | Express `Router`, `Middleware` and `HTTP Request`
+Project 7 | Express Validation using `Joi`
+Project 8 | More about Express `Middleware`
+Project 9 | Config `Environment` for API
+Project 10 | `Debugging`
+Project 11 | Express `Template Engine`
+Project 12 | Install and config `MongoDB` on Mac
+Project 13 | Mongoose `CRUD`
+Project 14 | Mongoose `Validation`
+Project 15 | User `Authentication` and `Authorization`
 
 
 ## Introduction
@@ -23,4 +33,11 @@ Project 5 | `Restful` and `HTTP` basics
 ## Database
 - [Database Integration](https://expressjs.com/en/guide/database-integration.html)
 
+## Mongoose: Modeling Relationships
+## Authentication and Authorization Tutorials
+## Handling and Loggin Errors
+## Unit Testing
+## Integration Testing
+## Test-driven Development
+## Deployment
 ## Questions

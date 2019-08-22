@@ -153,5 +153,3 @@ router.get("/:id", (req,res) => {
     res.send(req.query.sortBy);
 });
 ```
-
-### HTTP GET
