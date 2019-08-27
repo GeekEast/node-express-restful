@@ -7,6 +7,9 @@
 ```shell
 # 通过export NODE_ENV可以根据`文件名`自动载入相应配置
 export NODE_ENV=production
+export NODE_ENV=development
+# set node_env to default
+export NODE_ENV=
 ```
 
 - Get ENV for Project
